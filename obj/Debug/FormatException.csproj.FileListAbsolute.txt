@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\FormatException\bin\Debug\FormatException.exe.config
+C:\Users\DELL\source\repos\FormatException\bin\Debug\FormatException.exe
+C:\Users\DELL\source\repos\FormatException\bin\Debug\FormatException.pdb
+C:\Users\DELL\source\repos\FormatException\obj\Debug\FormatException.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\FormatException\obj\Debug\FormatException.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FormatException\obj\Debug\FormatException.exe
+C:\Users\DELL\source\repos\FormatException\obj\Debug\FormatException.pdb
